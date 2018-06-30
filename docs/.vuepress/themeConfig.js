@@ -28,10 +28,6 @@ module.exports = {
         {
           text: '应用',
           link: '/zh/application/'
-        },
-        {
-          text: '招聘',
-          link: '/zh/recruit/'
         }
       ],
       sidebar: {

@@ -21,7 +21,7 @@ module.exports = {
   locales: {
     '/': {
       lang: 'zh-CN',
-      title: '静晴轩别苑',
+      title: '致远大秦',
       description: '繁华尽处，寻一无人山谷，建一木制小屋，铺一青石小路，与你晨钟暮鼓，安之若素。'
     },
     '/en/': {
